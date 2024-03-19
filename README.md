@@ -8,7 +8,7 @@ Your manager has asked for you to take this data and analyze it. One set of data
   2. A break down of your best selling products.
   3. What is the level of penetration with the current order strategy (are people buying all services offered or only one)?
 
-Aside from this, you also notice that there are other records that could provide meaningful insight to the company. You are tasked with finding three of your own meaningful reports to give to your manager. Make sure to vaildate that the data makes sense, for example, quotes from the CSV should not be created later than Orders from the json. This may not be the only data issue you will need to look out for. Good Luck!!
+Aside from this, you also notice that there are other records that could provide meaningful insight to the company. You are tasked with finding three of your own meaningful reports to give to your manager. Make sure to vaildate that the data makes sense, for example, quotes from the CSV should not be created later than Orders from the json. Good Luck!!
 
 
 Rules:
