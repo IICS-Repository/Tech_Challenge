@@ -4,11 +4,12 @@ Tech Challenge for new Interns
 
 
 Your manager has asked for you to take this data and analyze it. One set of data is in a CSV, while the other is in Json. There are a few key elements your manager is looking for. 
+
   1. How many quotes are turned into orders?
   2. A break down of your best selling products.
   3. What is the level of penetration with the current order strategy (are people buying all services offered or only one)?
 
-Aside from this, you also notice that there are other records that could provide meaningful insight to the company. You are tasked with finding three of your own meaningful reports to give to your manager. Make sure to vaildate that the data makes sense, for example, quotes from the CSV should not be created later than Orders from the json. Good Luck!!
+Aside from this, you also notice that there are other records that could provide meaningful insight to the company. You are tasked with finding two of your own meaningful reports to give to your manager. Also please include a data vailidate test to ensure the Active contact date from the CSV is not a later date than Orders from the json. Good Luck!!
 
 
 Rules:
