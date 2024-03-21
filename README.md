@@ -18,5 +18,5 @@ Rules/Details:
 4. The data dictonary can be used to help describe what the values mean please refrence it as you begin.
 
 Helpful Links:
-Dataframe/pandas documentation -  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
-Install pandas via pip         - https://pandas.pydata.org/docs/getting_started/install.html
+1. Dataframe/pandas documentation -  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+2. Install pandas via pip         - https://pandas.pydata.org/docs/getting_started/install.html
