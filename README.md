@@ -8,7 +8,7 @@ Your manager has asked for you to take this data and analyze it. One set of data
   2. A break down of your best selling products.
   3. What is the level of penetration with the current order strategy (are people buying all services offered or only one)?
 
-Aside from this, you also notice that there are other parts of the data that could provide meaningful insight to the company. You are tasked with finding two of your own meaningful reports to give to your manager. There are some issues with the data though. Make sure the Active contact date from the CSV is not a later date than Orders from the json. Also it looks like some of the data got duplicated. For example one ID placed multiple orders for the same product remove these duplicated records and let us know what you find. Good Luck!!
+Aside from this, you also notice that there are other parts of the data that could provide meaningful insight to the company. You are tasked with finding two of your own meaningful reports to give to your manager. There are some anomalies with the data though. Make sure the Active contact date from the CSV is not a later date than the Orders created date from the json. Also it looks like some of the data got duplicated. For example one ID placed multiple orders for the same product remove these duplicated records and let us know what you find. Good Luck!!
 
 
 Rules/Details:
