@@ -15,5 +15,8 @@ Rules/Details:
 1. You have 2 hours to complete your analysis with your teammate.
 2. Use the python pandas libary to complete this challange as it will provide you with many of the nessecary tools
 3. You are free to use all resources available to you, however, your process and anlysis should be done in the python not by other means.
-4. The data dictonary can be used to help describe what the values mean please refrence it as you begin. 
- 
+4. The data dictonary can be used to help describe what the values mean please refrence it as you begin.
+
+Helpful Links:
+Dataframe/pandas documentation -  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+Install pandas via pip         - https://pandas.pydata.org/docs/getting_started/install.html
